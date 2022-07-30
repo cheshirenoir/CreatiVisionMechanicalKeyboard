@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "CrVisionMech-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/CrVisionMech-eagle-import.kicad_sym")(options "")(descr ""))
+)
